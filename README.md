@@ -8,7 +8,7 @@
 
 ### Bug/enhancements filed
 
--[Runtime Performance reader shows screenshots and memory checkboxes even though the Performance Profile files does not have screenshots or memory info](https://bugs.chromium.org/p/chromium/issues/detail?id=1057373)
+- [Runtime Performance reader shows screenshots and memory checkboxes even though the Performance Profile files does not have screenshots or memory info](https://bugs.chromium.org/p/chromium/issues/detail?id=1057373)
 
 ### References
 - [Chrome Architecture](https://mohan-chinnappan-n2.github.io/2019/lex/perf.html#chromeArch)
